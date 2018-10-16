@@ -5,3 +5,7 @@ body {
 .promo {
   border: 2px dashed black;
 }
+
+.into {
+  background-color: crimson;
+}
