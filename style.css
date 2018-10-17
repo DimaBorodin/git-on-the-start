@@ -4,5 +4,5 @@ body {
 
 .promo {
   border: 2px dashed blue;
-  border-radius: 50%;
+  border-radius: 10px;
 }
